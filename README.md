@@ -4,11 +4,12 @@ Technologies and Languages </h2>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
+[![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=flat-square&logo=github-copilot&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=flat-square&logo=bitcoin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -18,25 +19,16 @@ Technologies and Languages </h2>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
-<h3> + many more! </h3>
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <h2 align="center">
 My Current Workstation Specification </h2>
 
 <div align="center">
-	
 
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_5800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <br> 
 	
-![GPU](https://img.shields.io/badge/RTX-4090-Xtreme-ED1C24?style=for-the-badge&logo=nVIDIA&logoColor=white) 
-
-
+![GPU](https://img.shields.io/badge/NVIDIA-RTX4090Xtreme-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
