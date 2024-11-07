@@ -1,6 +1,4 @@
 <h2 align="center"> DYVERTIGO <br/></h2>  
-<h2 align="center">
-Technologies and Languages </h2>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -22,13 +20,13 @@ Technologies and Languages </h2>
 
 
 <h2 align="center">
-My Current Workstation Specification </h2>
+Workstation Specification </h2>
 
 <div align="center">
 
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_5800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <br> 
 	
-![GPU](https://img.shields.io/badge/NVIDIA-RTX4090Xtreme-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-RTX_4090_Xtreme-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
