@@ -30,3 +30,5 @@ Workstation Specification </h2>
 ![GPU](https://img.shields.io/badge/NVIDIA-RTX_4090_Xtreme-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dyvertigo&theme=dark-minimalist&hide_border=true&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
