@@ -31,4 +31,4 @@ Workstation Specification </h2>
 
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dyvertigo&theme=dark-minimalist&hide_border=true&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dyvertigo&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
